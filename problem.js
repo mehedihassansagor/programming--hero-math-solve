@@ -144,3 +144,30 @@ console.log("bismillah")
 //     console.log("prime")
 // }
 // else console.log("not")
+
+// console.log("run \ them",)
+// function calculation(){
+//     let a = 5;
+//     let b = 3;
+
+//    let  sum = a+b;
+//     console.log(sum)
+
+//     let sub = a-b;
+//     console.log(sub)
+// }
+// var date = new Date();
+// console.log(date)
+// var n = date.getMonth();
+// console.log(n)
+ 
+// for (let i = 1; i <10; i++) {
+//     if (i !== 5) {
+//         continue ;
+      
+//     }else 
+//      console.log(i)
+// }
+
+
+// let helllo = calculation()
